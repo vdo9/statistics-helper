@@ -1,0 +1,1 @@
+Ex 1:  Data Set 27 “M&M Weights” in Appendix B lists data from 100 M&Ms, and 27% of them are blue.  The Mars candy company claims that the percentage of blue M&Ms is equal to 24%.  Use a 0.05 significance level to test the claim.
